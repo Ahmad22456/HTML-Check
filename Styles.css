@@ -1,0 +1,107 @@
+html {
+    font-family: roboto;
+    background-color: #333;
+}
+
+nav {
+    background-color:aqua; 
+    font-weight: bold; 
+    text-align: center; 
+    padding: 10px;
+}
+
+nav > a {
+    margin-right: 30px;
+}
+
+#About-Section {
+    background-color: rgba(0, 0, 255, 0.575);
+    color: white;
+}
+
+#About-Section aside {
+    float: right;
+}
+
+#About-Section h2 {
+    height: auto; 
+    width: auto; 
+    padding: 10px;
+}
+
+#About-Section p {
+    height: auto; 
+    width: auto; 
+    padding: 10px;
+}
+
+#Work-Section {
+    background-color: rgba(255, 187, 0, 0.836); 
+    color: rgb(255, 255, 255);
+}
+
+#Work-Section aside {
+    float: left;
+}
+
+#Work-Section h2 {
+    padding: 10px;
+    text-align: center;
+}
+
+#Work-Section p {
+    height: auto; 
+    width: auto; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    text-align: center;
+}
+
+#Resume-Section {
+    background-color: rgba(255, 0, 0, 0.664);
+    color: white;
+}
+
+#Resume-Section ul {
+    margin-left: 30px; 
+    padding-bottom: 10px;
+    list-style: square;
+}
+
+#Resume-Section h2 {
+    padding: 10px;
+}
+
+#Resume-Section p {
+    padding-left: 40px; 
+    font-weight: bold;
+}
+
+#Resume-Section div {
+    text-align: center; 
+    padding-bottom: 10px;
+}
+
+#Contact-Section {
+    background-color: rgb(255, 115, 0); 
+    color: rgb(255, 255, 255);
+}
+
+#Contact-Section div {
+    text-align: center; 
+    padding-bottom: 10px;
+}
+
+#Contact-Section h2 {
+    padding: 10px;
+}
+
+#Contact-Section p {
+    height: auto; 
+    width: auto; 
+    padding: 10px;
+}
+
+footer > p {
+    text-align: center;
+}
